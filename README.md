@@ -5,6 +5,7 @@
 ## 프로젝트 진행 과정 및 회고 내용
 [2023 AIFFEL DLTON NLP 과정 후기](https://itmaster98.tistory.com/242)
 
+## 프로젝트 구성
 ```
 - folders📂
   - **data**: 제공받은 데이터셋
