@@ -6,7 +6,6 @@
 [2023 AIFFEL DLTON NLP 과정 후기](https://itmaster98.tistory.com/242)
 
 ## 프로젝트 구성
-```
 - folders📂
   - **data**: 제공받은 데이터셋
   - **submission**: 모델을 통해 제작된 submission 파일들
@@ -18,4 +17,3 @@
   - **LSTM_acc_0.56**: 훈련 데이터 스코어 0.56이 나온 lstm 모델
   - **DLTON AIFFEL ONLINE 5기 NLP**: 발표자료
 
-```
